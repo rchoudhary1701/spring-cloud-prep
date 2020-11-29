@@ -1,0 +1,5 @@
+package com.javatechie.spring.eureka.client.api.controller;
+
+public class ShoppingController {
+
+}

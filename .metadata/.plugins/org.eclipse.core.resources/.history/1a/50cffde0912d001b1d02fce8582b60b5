@@ -1,0 +1,5 @@
+package com.javatechie.spring.eureka.provider.api.comtroller;
+
+public class PaymentController {
+
+}
